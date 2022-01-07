@@ -8,13 +8,13 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>re20293832.wipro.bank</groupId>
-	<artifactId>re20293832_bank</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>Customer-Demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>re20293832_bank</name>
-	<description>bank</description>
+	<name>Customer-Demo</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -65,5 +65,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
